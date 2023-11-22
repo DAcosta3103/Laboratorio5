@@ -18,4 +18,8 @@ Pil (Pillow): librería usada para el reconocimiento de imágenes. Al igual que 
 Si se requiere usar el programa, primero es necesario indicar en la línea de comandos qué biblioteca se desea utilizar y la ruta de la imagen con la se desea trabajar. Preferiblemente, la imagen debería ser formato JPEG o PNG, sin embargo, otros formatos son aceptados por las bibliotecas. 
 La manera de indicar esta información en la línea de comandos sería "Laboratorio5.py [-h] --biblioteca {PIL,OpenCV} --imagen RutaDeImagen". Luego de esto se puede correr el script.
 
+# Diagrama de Diseño
+
+![Diagrama de Diseño](Laboratorio5/DiagramaDeDiseño.png)
+
 
