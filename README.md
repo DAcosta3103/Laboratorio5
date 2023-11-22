@@ -8,7 +8,9 @@ El script de python presentado en e archivo "Laboratorio5.py" tiene como funció
 Para que el script funcione correctamente, es necesario tener instalado lo siguiente:
 
 Python: cualquier versión por encima de Python 3. La versión instalada a la hora de programar el script es Python 3.12
+
 OpenCV: librería usada para reconocimiento de imágenes, es posible instalarla desde la línea de comandos con "pip install opencv-python"
+
 Pil (Pillow): librería usada para el reconocimiento de imágenes. Al igual que OpenCV, se puede instalar desde la línea de comandos con "pip install Pillow".
 
 # Uso del programa
